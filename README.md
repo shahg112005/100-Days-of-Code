@@ -12,6 +12,7 @@ Day 10: Project / Calculator
 Day 11: Project / Blackjack
 Day 12: Project / Number Guessing Game
 Day 13: Project / Pending
+Day 14: Project / Higher Lower Game
 
 ## READ ME
 I want to clarify that all my projects have been written down by me not AI.
